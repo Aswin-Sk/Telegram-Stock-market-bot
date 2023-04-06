@@ -1,3 +1,3 @@
-bot_token="5955393563:AAE5-O625wBGVPIFnNvBF06BvAAIwAOMAT4"
-bot_user_name="chummachat_bot"
+bot_token="sfsdcewf4" #enter your token here
+bot_user_name="bot_name" # enter bot name
 URL =""
