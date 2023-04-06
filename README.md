@@ -13,7 +13,7 @@ Go to Linux terminal and use the following commands to run the bot:
   
   pip install yfinance
   
-  cd <your directory>
+  cd /your directory/
   
   source venv/bin/activate (to set up virtual environment)
   
